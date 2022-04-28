@@ -45,8 +45,9 @@ Audacity, Ardour o editor de sonido
 
 ## Cómo continuar
 tutoriales en YouTube    
-sccode:   https://sccode.org/
+sccode:   https://sccode.org/  
 puredata patches: http://www.pdpatchrepo.info/
 
 ## contacto
-hernani.vr@gmail.com
+hernani.vr@gmail.com  
+http://www.hernanivillasenor.com/
