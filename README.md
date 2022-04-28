@@ -27,22 +27,18 @@ Suma de ondas sinoidales. Relación de frecuencias y amplitudes. Cuidar el volum
 ## Síntesis sustractiva
 Filtrar ruido en diferentes partes.
 
-## Síntesis modulación por anillo
-multiplicar
+## Síntesis por modulación
+Amplitud modulada y Frecuencia modulada
 
-## Síntesis de amplitud modulada
-
-## Síntesis de modelado físico
-
-## Síntesis wave table
-
-## Síntesis granular
-
-## Síntesis frecuencia modulada
+## Otro tipo de síntesis
+modelado físico, wave table, granular
 
 ## Secuencia
+Secuencia con la librería de patrones de SperCollider
 
 ## Grabación de sonidos sintetizados
+Start Recording en Supercollider  
+writesf~ en PureData
 
 ## Edición y almacenamiento como archivo
 Audacity, Ardour o editor de sonido
