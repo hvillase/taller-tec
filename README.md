@@ -1,8 +1,10 @@
 # taller-tec
-Introducción a la síntesis sonora con pure data y supercollider
+Introducción a la síntesis sonora con Pure Data, SuperCollider y Audacity
 
-## Síntesis de sonido
-Sintesis de sonido con Supercollider y PureData + edición en Audacity.
+## Software para el taller
+Supercollider:https://supercollider.github.io/  
+PureData: https://puredata.info/  
+Audacity: https://www.audacityteam.org/
 
 ## SuperCollider
 Lenguaje de programación textual para síntesis. James McCartney (1996/2002)  
